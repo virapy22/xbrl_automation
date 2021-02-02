@@ -1,5 +1,5 @@
 # xbrl_automation
-This project was developed to verify the accuracy of reported the financial information presented on the mandatory XBRL regulatory returns.
+This project was developed to verify the accuracy of reported the financial information presented on the mandatory XBRL regulatory returns. Financial Statement and XBRL form have been redacted due to information sensitivity. 
 
 XBRL Mapping & Comparison
 Developed by virapy22
